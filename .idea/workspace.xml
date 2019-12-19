@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b32c6ed-043d-462f-9050-4c5ee37bf610" name="Default Changelist" comment="" />
+    <list default="true" id="2b32c6ed-043d-462f-9050-4c5ee37bf610" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,10 +18,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/assets/js/index.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1VCwiigAM9cb3xyG7USONdc7iAR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -64,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576770514000</updated>
-      <workItem from="1576770516418" duration="6606000" />
+      <workItem from="1576770516418" duration="6848000" />
     </task>
     <servers />
   </component>
@@ -76,5 +82,9 @@
       <screen x="0" y="0" width="1920" height="1048" />
     </state>
     <state x="585" y="186" key="#Project_Structure/0.0.1920.1048@0.0.1920.1048" timestamp="1576770519339" />
+    <state x="556" y="260" key="Vcs.Push.Dialog.v2" timestamp="1576777367917">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state x="556" y="260" key="Vcs.Push.Dialog.v2/0.0.1920.1048@0.0.1920.1048" timestamp="1576777367917" />
   </component>
 </project>
