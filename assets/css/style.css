@@ -1,17 +1,30 @@
 @import "reset.css";
 
-.wrapper{
+body {
+    background-color: #bf5994
+}
+
+.wrapper {
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    margin-top: 20px;
+
 }
 
-.slideContainer{
-   width: 600px;
-    height: calc(600px *9/16);
-    background-color: rgba(0,0,0,0.7);
+.slideContainer {
+    width: 600px;
+    height: calc(600px * 9 / 16);
+    background-color: rgba(0, 0, 0, 0.7);
     display: flex;
     align-items: center;
     justify-content: center;
+    border-radius: 3px;
+}
+button{
+    margin-top: 5px;
+    border: 5px;
+    padding: 5px;
+
 }

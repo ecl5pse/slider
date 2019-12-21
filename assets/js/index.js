@@ -2,9 +2,13 @@
 
 const INDEX_SEARCH_KEY = 'current image';
 const images = [
-  'https://images.unsplash.com/photo-1541233349642-6e425fe6190e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80',
-  'https://www.gettyimages.com/gi-resources/images/500px/983794168.jpg',
-  'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTdIckZ8h0MDFLcsyAUwEqlMaSoZzSfo2jGM8Efm7fOBrgfbPHw',
+  'http://memesmix.net/media/created/dcydu9.jpg',
+  'http://memesmix.net/media/created/437dqq.jpg',
+  'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmIa4-HcLjI9rBb3dJ2o_wO1nF5Vx2Oa7GmjYZw61geK4O684Dow&s',
+  'https://habrastorage.org/files/61d/d9e/d20/61dd9ed201254aeba4e52189db698b6a.jpg',
+  'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuhV-VKC9s1o5Fp-5uy_GzAZZk4dx4s9M_dazEl5Xb__UmtCJy&s',
+
+
 ];
 
 let currentIndex = 0;
